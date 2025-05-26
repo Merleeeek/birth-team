@@ -1,2 +1,2 @@
-Muhammad Umar Faruk-NAS/STE/21/1008 - Navigation bar 
-Kabir Muhammad-NAS/STE/21/1019 - Added Header 
+- Muhammad Umar Faruk-NAS/STE/21/1008 - Navigation bar
+- Kabir Muhammad-NAS/STE/21/1019 - Added Header 
