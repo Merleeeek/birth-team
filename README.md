@@ -1,3 +1,4 @@
 - Muhammad Umar Faruk-NAS/STE/21/1008 - Navigation bar
 - Kabir Muhammad-NAS/STE/21/1019 - Added Header
-- Muhammad Yusuf Isa - NAS/STE/21/1015 - Special Dish Titile and Description 
+- Muhammad Yusuf Isa - NAS/STE/21/1015 - Special Dish Titile and Description
+- Magaji Muhammad Saulawa-NAS/STE/21/1011 - Special Dish Cards (1)	
