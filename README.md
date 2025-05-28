@@ -3,4 +3,6 @@
 - Muhammad Yusuf Isa - NAS/STE/21/1015 - Special Dish Titile and Description
 - Magaji Muhammad Saulawa-NAS/STE/21/1011 - Special Dish Cards (1)
 - Yaseer Ibrahim - NAS/STE/21/1017 - Special dish card 2
-- Umar usman - Nas/ste/21/1012 - Explore Section 
+- Umar usman - Nas/ste/21/1012 - Explore Section
+- Musa Fatima Gambo-NAS/STE/21/1005  - Special Dish Cards 3
+- Rabiu Dalhatu-NAS/STE/21/1010  - Banner Cards 1
